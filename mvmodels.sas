@@ -1030,7 +1030,7 @@ run;
       /*2.6: Debug options*/
         debug=0);
             
-    %macrolog(mvmodels);
+
     
             
     /**Save current options to reset after macro runs**/
