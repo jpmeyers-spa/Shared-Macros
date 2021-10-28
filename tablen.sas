@@ -725,7 +725,7 @@ run;
             debug=0
             );
             
-%macrolog(tablen);    
+
             
             
     /**Save current options to reset after macro runs**/
