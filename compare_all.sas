@@ -162,7 +162,7 @@
     /*OPTIONAL PARAMETERS*/
     crosstab_threshold=15,select=,id=,idsumtable=0, print_variable_summary=1, debug=0);
     
-    %macrolog(compare_all);
+    
     /**Save current options to reset after macro runs**/
     %local _mergenoby _notes _qlm _odspath _starttime _listing;
     %let _starttime=%sysfunc(time());
