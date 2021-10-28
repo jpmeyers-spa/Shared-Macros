@@ -967,7 +967,7 @@ run;
     debug=0);
     
     
-%macrolog(newsurv);
+
 
     /**Save current options to reset after macro runs**/
     %local _mergenoby _notes _qlm _odspath _starttime _device _gsfname _mprint
